@@ -67,8 +67,8 @@ I'm a Tech Lead and Software Architect with 10+ years of experience designing, b
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabianreyes7&show_icons=true&theme=default&hide_border=true" alt="Fabian's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabianreyes7&hide_border=true" alt="Fabian's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cfreyes7&show_icons=true&theme=default&hide_border=true" alt="Fabian's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cfreyes7&hide_border=true" alt="Fabian's GitHub streak" height="165"/>
 </p>
 
 ---
